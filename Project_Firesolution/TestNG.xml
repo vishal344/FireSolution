@@ -11,6 +11,7 @@
 		<classes>
 			<class name="Com.FireSolution_TestCase.TC_SignPage_001"/> 
 			
+			
 			<!--<class name="Com.FireSolution_TestCase.TC_AddNewClient_002"/>	-->
 
 			<!--	<class name="Com.FireSolution_TestCase.TC_ClientSignPage_003"/>	 -->
