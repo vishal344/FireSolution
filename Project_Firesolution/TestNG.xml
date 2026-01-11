@@ -3,16 +3,12 @@
 
 <suite name="FireSolution_V1">
 	
-	
 	<test name="FireSolution Test">
 		
 		<parameter name="browser" value="edge"/>
 		
 		<classes>
 			<class name="Com.FireSolution_TestCase.TC_SignPage_001"/> 
-
-			
-			
 			<!--<class name="Com.FireSolution_TestCase.TC_AddNewClient_002"/>	-->
 
 			<!--	<class name="Com.FireSolution_TestCase.TC_ClientSignPage_003"/>	 -->
